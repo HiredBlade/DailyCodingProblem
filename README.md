@@ -1,2 +1,2 @@
 # DailyCodingProblem
-A repository with my solutions to interview coding problems from Daily Coding Problems - https://www.dailycodingproblem.com
+A repository with my solutions to interview coding problems from Daily Coding Problem - https://www.dailycodingproblem.com
